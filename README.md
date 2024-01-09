@@ -35,7 +35,7 @@ ________________________________________________________________________________
 ## Multiplication Table
 Write the function, multiplication_table(size), that generates a multiplication table of a specified size. The function should take an integer size as its parameter and print a multiplication table with rows and columns ranging from 1 to the specified size.
 
-Example:
+**Example:**
 Input
 ```python
 mutliplication_table(5)
@@ -43,9 +43,12 @@ mutliplication_table(5)
 
 Output
 ```
-1 2 3 4 5
-
-
+1  2  3  4  5
+2  4  6  8 10
+3  6  9 12 15
+4  8 12 16 20
+5 10 15 20 25
+```
 
 <br/><br/> 
 <br/><br/> 
