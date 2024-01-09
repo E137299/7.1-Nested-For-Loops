@@ -32,10 +32,27 @@ Because you know exactly how many times each loop should iterate, you should use
 <br/><br/> 
 <br/><br/> 
 ______________________________________________________________________________________________________________
+## Multiplication Table
+Write the function, multiplication_table(size), that generates a multiplication table of a specified size. The function should take an integer size as its parameter and print a multiplication table with rows and columns ranging from 1 to the specified size.
 
-## Categories
+Example:
+Input
+```python
+mutliplication_table(5)
+```
 
-Write a categories() function that asks the user for three categories. For each category, ask the user for three things in that category. You should print something for each category that states the category and the three things in that category.
+Output
+```
+1 2 3 4 5
+
+
+
+<br/><br/> 
+<br/><br/> 
+______________________________________________________________________________________________________________
+## Three Categories
+
+Write a three_categories() function that asks the user for three categories. For each category, ask the user for three things in that category. You should print something for each category that states the category and the three things in that category.
 
 Here is what running your final program should look like:
 
